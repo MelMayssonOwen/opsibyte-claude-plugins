@@ -1,0 +1,11 @@
+{
+  "name": "opsibyte-brand-guides",
+  "description": "Local Claude Code plugins for four Opsibyte brands.",
+  "owner": { "name": "Opsibyte" },
+  "plugins": [
+    { "name": "toolfound-guide", "source": "./plugins/toolfound-guide", "description": "Research tools and review launch readiness with Toolfound's read-only MCP tools." },
+    { "name": "timetopost-planner", "source": "./plugins/timetopost-planner", "description": "Plan social content from an explicitly verified intended workspace using read-only TimeToPost tools." },
+    { "name": "clef-practice", "source": "./plugins/clef-practice", "description": "Guide music practice with Clef's public read-only music tools." },
+    { "name": "prayer-in-hand-reflection", "source": "./plugins/prayer-in-hand-reflection", "description": "Guide a brief morning, midday, or evening prayer reflection." }
+  ]
+}

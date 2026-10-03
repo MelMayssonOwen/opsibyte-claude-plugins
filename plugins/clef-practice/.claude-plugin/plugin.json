@@ -1,0 +1,12 @@
+{
+  "name": "clef-practice",
+  "displayName": "Clef Practice",
+  "version": "1.0.0",
+  "description": "Guide music practice, chord transposition, chord spelling, and guitar-tab note mapping with Clef's public read-only tools.",
+  "author": { "name": "Opsibyte", "url": "https://clefdrills.com" },
+  "homepage": "https://clefdrills.com",
+  "keywords": ["music", "sight-reading", "practice", "chords", "guitar-tab"],
+  "mcpServers": {
+    "clef": { "type": "http", "url": "https://clefdrills.com/mcp" }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "prayer-in-hand-reflection",
+  "displayName": "Prayer in Hand Reflection",
+  "version": "1.0.0",
+  "description": "Guide a brief daily prayer reflection without external tools.",
+  "author": { "name": "Opsibyte", "url": "https://prayerinhand.com" },
+  "homepage": "https://prayerinhand.com",
+  "keywords": ["prayer", "reflection", "daily-practice"]
+}

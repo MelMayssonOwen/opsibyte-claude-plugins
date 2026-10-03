@@ -1,0 +1,12 @@
+{
+  "name": "toolfound-guide",
+  "displayName": "Toolfound Guide",
+  "version": "1.0.0",
+  "description": "Research public software listings and review launch readiness with verified read-only Toolfound tools.",
+  "author": { "name": "Opsibyte", "url": "https://toolfound.com" },
+  "homepage": "https://toolfound.com",
+  "keywords": ["software-discovery", "launch-review"],
+  "mcpServers": {
+    "toolfound": { "type": "http", "url": "https://toolfound.com/api/chatgpt/mcp" }
+  }
+}

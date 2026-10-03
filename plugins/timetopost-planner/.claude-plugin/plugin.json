@@ -1,0 +1,12 @@
+{
+  "name": "timetopost-planner",
+  "displayName": "TimeToPost Planner",
+  "version": "1.0.0",
+  "description": "Build read-only social content plans from an explicitly verified intended TimeToPost workspace.",
+  "author": { "name": "Opsibyte", "url": "https://timetopost.co" },
+  "homepage": "https://timetopost.co/mcp/",
+  "keywords": ["content-planning", "social-analytics"],
+  "mcpServers": {
+    "timetopost": { "type": "http", "url": "https://api.timetopost.co/mcp" }
+  }
+}
