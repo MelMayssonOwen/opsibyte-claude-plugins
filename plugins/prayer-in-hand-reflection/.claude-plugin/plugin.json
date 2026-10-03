@@ -1,8 +1,8 @@
 {
   "name": "prayer-in-hand-reflection",
   "displayName": "Prayer in Hand Reflection",
-  "version": "1.0.0",
-  "description": "Guide a brief daily prayer reflection without external tools.",
+  "version": "1.1.0",
+  "description": "Discover public, read-only Prayer in Hand prayer guides and build a static three-pause reflection rhythm.",
   "author": { "name": "Opsibyte", "url": "https://prayerinhand.com" },
   "homepage": "https://prayerinhand.com",
   "keywords": ["prayer", "reflection", "daily-practice"]

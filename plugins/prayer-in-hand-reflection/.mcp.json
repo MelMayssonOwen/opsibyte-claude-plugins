@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "prayer-in-hand": {
+      "type": "http",
+      "url": "https://prayerinhand.com/mcp"
+    }
+  }
+}
