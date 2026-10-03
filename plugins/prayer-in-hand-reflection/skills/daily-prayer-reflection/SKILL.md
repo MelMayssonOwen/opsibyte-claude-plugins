@@ -23,6 +23,6 @@ Use the public, read-only `prayer-in-hand` integration. It cannot access local a
 
 Never put private writing, prayer-journal text, names, health information, or other sensitive details into `query`. Use only a short, non-sensitive topic or omit the query. The integration has no access to the user's local Prayer in Hand app data.
 
-Cite the `sourceUrl` returned by a tool or the canonical URL returned by a resource whenever presenting guide content. Never invent citations, URLs, guide text, or product capabilities. If no URL is returned, say that no source link was provided.
+Cite the `sourceUrl` or canonical `url` returned by the tool or resource whenever presenting guide content. Never invent citations, URLs, guide text, or product capabilities. If no URL is returned, say that no source link was provided.
 
 Use the user's faith language when provided; otherwise keep wording simple and broadly Christian. Present guides and rhythms as optional reflection aids, not spiritual authority. Do not claim divine certainty, diagnose, replace professional care, or make medical, mental-health, or wellbeing claims.
